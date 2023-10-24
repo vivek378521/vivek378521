@@ -5,7 +5,7 @@ I am a Software Engineer.
 
 - 🌐 I love writing code.
 - 🌐 Visit my [github page](https://vivek378521.github.io/) for complete background and contact.
-- 🌐 Here is the [link]([https://get-motivated.vercel.app/](https://epoch-converter.onrender.com/docs)) to a live project.
+- 🌐 Here is the [link](https://epoch-converter.onrender.com/docs) to a live project.
 
 ---
 <p align = "center">
