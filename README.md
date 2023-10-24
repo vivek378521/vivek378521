@@ -7,8 +7,3 @@ I am a Software Engineer.
 - 🌐 Visit my [github page](https://vivek378521.github.io/) for complete background and contact.
 - 🌐 Here is the [link](https://epoch-converter.onrender.com/docs) to a live project.
 
----
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=vivek378521&show_icons=true&theme=bear" width = 400>
-  <img src = "https://komarev.com/ghpvc/?username=vivek378521&style=flat-square&color=blue" alt="">
-</p>
