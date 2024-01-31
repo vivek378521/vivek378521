@@ -3,5 +3,5 @@
 ## Hi 👋 I am Vivek Khatri! 
 I am a Backend Engineer. 
 
-* coming soon *
+
 
